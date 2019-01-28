@@ -1,6 +1,6 @@
-#Gyakran használt kifejezések
+# Gyakran használt kifejezések
 
-##Coupling (csatoltság)
+## Coupling (csatoltság)
 
 A csatoltság az objektumok közötti függőség mértéke.
 
@@ -17,6 +17,6 @@ A lazán csatolt osztályoknak az a nagy előnye, hogy egymástól függetlenül
 Leegyszerűsítve: egy szorosan csatolt függőséget úgy lehet elképzelni, mint a testünk és a börünk közti kapcsolatot. A bőrt értelemszerűen nehéz lenne lecserélni, ahhoz újra kellene tervezni a testünket. A lazán csatolt függőség a testünk és a ruhánk közti kapcsolathoz hasonlítható: bármikor lecserélhetünk egy-egy ruhadarabot. Emellet az ingünket kölcsönadhatjuk a barátainknak, mivel az ing nem tudja (és nem is érdekli), hogy kinek a testére kerül.
  
 
-##SOLID tervezési elv
+## SOLID tervezési elv
 
 ...

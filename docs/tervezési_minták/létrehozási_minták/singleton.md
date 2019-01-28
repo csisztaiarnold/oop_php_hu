@@ -1,15 +1,15 @@
-#Singleton (egyke)
+# Singleton (egyke)
 
 A singleton csupán egyszer, globálisan példányosított osztály. 
 
 Általában anti-mintának tekintik, mivel merev függőségeket hoz létre az osztályok között és a globális változók működéséhez hasonló azzal a különbséggel, hogy az egykék korlátozhatóak névterületle. Lehetőleg kerüljük a használatát. A singletonokat általában nehéz mockolni. Helyette célszerűbb dependenci injectiont használni.
 
-###Mire használható?
+### Mire használható?
 
 - Logoláshoz
 - Adatbázis csatlakozáshoz
 
-###Példa
+### Példa
 
 ```php
 <?php

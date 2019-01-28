@@ -1,1 +1,1 @@
-#Abstract factory (elvont gyár)
+# Abstract factory (elvont gyár)

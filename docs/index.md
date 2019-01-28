@@ -1,4 +1,4 @@
-#Objektumorientált PHP
+# Objektumorientált PHP
 - [Bevezető](bevezető/mit_jelent_az_objektumorientáltság.md)
 - Osztályok létrehozása
 - Tulajdonságok és osztályállandók (Properties and class constants)

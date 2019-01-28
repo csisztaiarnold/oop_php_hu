@@ -1,1 +1,1 @@
-#Osztályok létrehozása
+# Osztályok létrehozása

@@ -1,8 +1,8 @@
-#Multiton (többke)
+# Multiton (többke)
 
 Ugyanaz vonatkozik rá mint a [singleton](singleton.md)-ra, azzal a különbséggel, hogy a multiton többször példányosítható.
 
-###Példa
+### Példa
 
 ```php
 class Logger

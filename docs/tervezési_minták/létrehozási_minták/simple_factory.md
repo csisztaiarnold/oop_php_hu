@@ -1,3 +1,3 @@
-#Simple factory (egyszerű gyár)
+# Simple factory (egyszerű gyár)
 
 ...

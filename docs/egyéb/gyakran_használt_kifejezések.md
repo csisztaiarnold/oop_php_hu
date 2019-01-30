@@ -12,7 +12,7 @@ Mivel a fejlesztés szoros függőség esetében gyorsabb lehet, leginkább prot
 
 __Loose coupling (lazán csatolt függőség)__
 
-A lazán csatolt osztályoknak az a nagy előnye, hogy egymástól függetlenül tudjuk őket használni és tesztelni. Laza csatolásokhoz általában interfészeket (interface) használunk. Az osztályok az interfészeken kommunikálhatnak egymással, és ez a kommunikáció lefolytatható minden olyan osztály között amely implementálja az interfészt.
+A lazán csatolt osztályoknak az a nagy előnye, hogy egymástól függetlenül tudjuk őket használni és tesztelni. Laza csatolásokhoz általában interfészeket (interface) használunk. Az osztályok az interfészeken át kommunikálhatnak egymással, és ez a kommunikáció lefolytatható minden olyan osztály között amely implementálja az interfészt.
 
 Leegyszerűsítve: egy szorosan csatolt függőséget úgy lehet elképzelni, mint a testünk és a börünk közti kapcsolatot. A bőrt értelemszerűen nehéz lenne lecserélni, ahhoz újra kellene tervezni a testünket. A lazán csatolt függőség a testünk és a ruhánk közti kapcsolathoz hasonlítható: bármikor lecserélhetünk egy-egy ruhadarabot. Emellet az ingünket kölcsönadhatjuk a barátainknak, mivel az ing nem tudja (és nem is érdekli), hogy kinek a testére kerül.
  

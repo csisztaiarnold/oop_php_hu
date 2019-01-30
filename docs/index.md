@@ -29,6 +29,6 @@
           - Proxy (helyettes)
           - Registry
      - Viselkedési minták
-          - ...
+          - TODO
 - [Gyakran használt kifejezések](egyéb/gyakran_használt_kifejezések.md)
 - Modern PHP a gyakorlatban
